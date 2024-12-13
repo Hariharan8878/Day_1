@@ -2,22 +2,22 @@ let testimonial_data = [
     {
         name : "Ramesh",
         image : "https://picsum.photos/200/300?random=1",
-        text_content :"Hello! This is Ramesh"
+        text :"Hello! This is Ramesh"
     },
     {
         name : "Vyshak Vijaykumar",
         image : "https://picsum.photos/200/300?random=2",
-        text_content :"Im an frontend developer"
+        text :"Im an frontend developer"
     },
     {
         name : "John Victor",
         image : "https://picsum.photos/200/300?random=3",
-        text_content :"This is Captain John Victor reporting"
+        text :"This is Captain John Victor reporting"
     },
     {
         name : "Preethi",
         image : "https://picsum.photos/200/300?random=4",
-        text_content :"Hi! im Preethi Im working as an Fashion Designer in UK"
+        text :"Hi! im Preethi Im working as an Fashion Designer in UK"
     }
     
 ]
